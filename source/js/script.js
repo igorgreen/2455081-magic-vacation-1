@@ -12,6 +12,8 @@ import FullPageScroll from './modules/full-page-scroll';
 // init modules
 mobileHeight();
 slider();
+
+666
 menu();
 footer();
 chat();
