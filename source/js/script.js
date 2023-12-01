@@ -13,8 +13,6 @@ import FullPageScroll from './modules/full-page-scroll';
 mobileHeight();
 slider();
 
-666
-
 
 menu();
 footer();
